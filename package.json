@@ -1,0 +1,17 @@
+{
+  "name": "localhosttest",
+  "version": "1.0.0",
+  "description": "my local host test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Joe Palmer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
